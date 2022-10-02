@@ -1,0 +1,8 @@
+@import '@uppy/image-editor/dist/style.css';
+
+#drag-drop-area {
+  margin-top: 40px;
+
+  display: flex;
+  justify-content: center;
+}
